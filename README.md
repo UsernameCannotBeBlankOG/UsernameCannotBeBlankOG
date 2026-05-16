@@ -6,7 +6,7 @@
 </div>
 
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VeldoraWEB&layout=compact&theme=radical&langs_count=10)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VeldoraWEB&layout=compact&theme=radical)
 <p align="left"> 
 
 <p align="left">
@@ -23,4 +23,3 @@
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
-![Top Langs](https://gh-stats.com/api/top-langs/?username=VeldoraWEB&layout=compact&theme=radical&langs_count=10)
